@@ -1,0 +1,2 @@
+# randomquotegen
+ javascript quotes
