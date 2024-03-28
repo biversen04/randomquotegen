@@ -31,4 +31,5 @@ window.onload = function() {
     generateQuote();
 }
 
-// document.getElementById("generate").addEventListener('click', generateQuote());
+document.getElementById("generate").addEventListener('click', generateQuote);
+
